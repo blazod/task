@@ -1,0 +1,50 @@
+/* h1:hover
+{
+    color: brown;
+
+}
+
+input[type="text"]:hover
+{
+    border: 2px solid red ;
+
+} */
+
+    /* .name :first-child
+    {
+color: brown ;
+
+    }               
+    .name :last-child
+    {
+color: brown ;
+
+    }              
+    
+    .name :nth-child(2)
+    {
+
+        color:rgb (229, 255, 0);
+
+    } */
+
+    /* .name :nth-child(odd)
+    {
+
+        color:blue ;
+
+    } */
+     /* .name :nth-child(3n)
+    {
+
+        color:blue ;
+
+    }  */
+
+
+    span
+    {
+display: block ;
+border: 2px solid red ;
+
+    }

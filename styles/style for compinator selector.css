@@ -1,0 +1,21 @@
+.head > p 
+{
+
+    color: aquamarine;
+
+}
+
+.head + p 
+{
+
+    color: aquamarine;
+
+}
+
+
+.head ~ p 
+{
+
+    color: aquamarine;
+
+}
